@@ -13,6 +13,7 @@ Git hands-on practice:
 - Made commits describing the changes
 - Merged the "develop" branch into "main"
 - Analyzed the commit history
+  
 
   Commands used:
 
