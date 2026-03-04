@@ -100,7 +100,7 @@
   100  nano develop_test.txt
   101  git status
   102  git add develop_test.txt
-  103  git commit -m "chnage added"
+  103  git commit -m "change added"
   104  checkout main 
   105  git checkout main
   106  merge develop
