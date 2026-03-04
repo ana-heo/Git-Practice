@@ -17,12 +17,11 @@ Git hands-on practice:
 
   Commands used:
 
-- git branch develop
-- git checkout develop
-- git add .
-- git commit -m "Add test file in develop branch"
-- git checkout main
-- git merge develop
+- git branch 
+- git checkout
+- git commit -m
+- git merge
+  
 
 develop_test.txt - File created and modified in the develop branch,
 
