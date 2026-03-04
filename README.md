@@ -24,6 +24,12 @@ Git hands-on practice:
 - git checkout main
 - git merge develop
 
+develop_test.txt - File created and modified in the develop branch
+main_test.txt - File related to the main branch
+command_list.csv - List of used Git commands
+.gitignore - File of ignored Git objects
+
+
 # Result
 
 - understanding the Git branching model
